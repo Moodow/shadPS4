@@ -2533,7 +2533,7 @@
       <translation>本地用户文件夹</translation>
     </message>
     <message>
-      <source>Create Portable User Folder from Common User Folder</source>
+      <source>Create Portable User Folder from Global AppData Folder</source>
       <translation>从公共用户文件夹创建本地用户文件夹</translation>
     </message>
     <message>
@@ -3331,11 +3331,11 @@
       <translation>用户文件夹位置</translation>
     </message>
     <message>
-      <source>Move Portable User folder</source>
+      <source>Move Portable User folder to Appdata folder</source>
       <translation>移动便携用户文件夹</translation>
     </message>
     <message>
-      <source>Enables PS/Home/Guide button: Hardcoded Hotkeys</source>
+      <source>Enables PS/Home/Guide button Hardcoded Hotkeys</source>
       <translation>启用PS/Home/Guide按钮：硬编码快捷键</translation>
     </message>
     <message>
@@ -3373,6 +3373,14 @@
     <message>
       <source>Memory Allocation</source>
       <translation>内存分配</translation>
+    </message>
+    <message>
+      <source>Signaling Info</source>
+      <translation>信令信息</translation>
+    </message>
+    <message>
+      <source>Player Enable/Disable</source>
+      <translation>玩家启用/禁用</translation>
     </message>
   </context>
   <context>
@@ -4441,6 +4449,26 @@ Please select a new location.</source>
     <message>
       <source>Fetch SDL builds instead of Qt builds</source>
       <translation>获取SDL构建版本（非Qt版本）</translation>
+    </message>
+    <message>
+      <source>Browse</source>
+      <translation>浏览</translation>
+    </message>
+    <message>
+      <source>Name</source>
+      <translation>名称</translation>
+    </message>
+    <message>
+      <source>Type</source>
+      <translation>类型</translation>
+    </message>
+    <message>
+      <source>Version</source>
+      <translation>版本</translation>
+    </message>
+    <message>
+      <source>Version Manager</source>
+      <translation>版本管理器</translation>
     </message>
   </context>
   <context>
