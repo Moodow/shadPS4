@@ -1099,6 +1099,106 @@
       <source>Delete game-specific settings?</source>
       <translation>删除游戏特定设置？</translation>
     </message>
+    <message>
+      <source>Are you sure you want to delete %1's %2?</source>
+      <translation>确定要删除 %1 的 %2 吗？</translation>
+    </message>
+    <message>
+      <source>Boot Game Detached</source>
+      <translation>分离模式启动</translation>
+    </message>
+    <message>
+      <source>Configure game-specific settings</source>
+      <translation>配置游戏特定设置</translation>
+    </message>
+    <message>
+      <source>Confirm Deletion</source>
+      <translation>确认删除</translation>
+    </message>
+    <message>
+      <source>Create game-specific settings from global settings</source>
+      <translation>从全局设置创建游戏特定设置</translation>
+    </message>
+    <message>
+      <source>Custom Configuration...</source>
+      <translation>自定义配置...</translation>
+    </message>
+    <message>
+      <source>Delete Game-specific settings?</source>
+      <translation>删除游戏特定设置？</translation>
+    </message>
+    <message>
+      <source>Delete Shader Cache</source>
+      <translation>删除着色器缓存</translation>
+    </message>
+    <message>
+      <source>Delete game-specific settings</source>
+      <translation>删除游戏特定设置</translation>
+    </message>
+    <message>
+      <source>Failed to launch game in detached mode.</source>
+      <translation>分离模式启动游戏失败。</translation>
+    </message>
+    <message>
+      <source>Invalid game path.</source>
+      <translation>游戏路径无效。</translation>
+    </message>
+    <message>
+      <source>Launch with game specific configs (default)</source>
+      <translation>使用游戏特定配置启动（默认）</translation>
+    </message>
+    <message>
+      <source>Launch with global config only</source>
+      <translation>仅使用全局配置启动</translation>
+    </message>
+    <message>
+      <source>Launch...</source>
+      <translation>启动...</translation>
+    </message>
+    <message>
+      <source>Mods Folder</source>
+      <translation>Mod文件夹</translation>
+    </message>
+    <message>
+      <source>Mods folder not found. Expected paths: %1</source>
+      <translation>未找到Mod文件夹。预期路径：%1</translation>
+    </message>
+    <message>
+      <source>Open Custom Configuration Folder</source>
+      <translation>打开自定义配置文件夹</translation>
+    </message>
+    <message>
+      <source>Open Mods Folder</source>
+      <translation>打开Mod文件夹</translation>
+    </message>
+    <message>
+      <source>Shader Cache</source>
+      <translation>着色器缓存</translation>
+    </message>
+    <message>
+      <source>Submit a report</source>
+      <translation>提交报告</translation>
+    </message>
+    <message>
+      <source>This game does not have any saved Shader Cache to delete!</source>
+      <translation>此游戏没有已保存的着色器缓存可删除！</translation>
+    </message>
+    <message>
+      <source>Update Folder</source>
+      <translation>更新文件夹</translation>
+    </message>
+    <message>
+      <source>Update database</source>
+      <translation>更新数据库</translation>
+    </message>
+    <message>
+      <source>Update folder not found for this game.</source>
+      <translation>未找到此游戏的更新文件夹。</translation>
+    </message>
+    <message>
+      <source>View report</source>
+      <translation>查看报告</translation>
+    </message>
   </context>
   <context>
     <name>HelpDialog</name>
@@ -1455,6 +1555,10 @@
     <message>
       <source>R3</source>
       <translation>R3</translation>
+    </message>
+    <message>
+      <source>Cannot bind any unique input more than once. Duplicate inputs mapped to the following buttons:\n\n%1</source>
+      <translation>每个输入只能绑定一次。以下按键存在重复绑定：\n\n%1</translation>
     </message>
   </context>
   <context>
@@ -4554,29 +4658,6 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>GameListUtils</name>
-    <message>
-      <source>B</source>
-      <translation>B</translation>
-    </message>
-    <message>
-      <source>GB</source>
-      <translation>GB</translation>
-    </message>
-    <message>
-      <source>KB</source>
-      <translation>KB</translation>
-    </message>
-    <message>
-      <source>MB</source>
-      <translation>MB</translation>
-    </message>
-    <message>
-      <source>TB</source>
-      <translation>TB</translation>
-    </message>
-  </context>
-  <context>
     <name>GameSpecificDialog</name>
     <message>
       <source>Always</source>
@@ -5069,277 +5150,6 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>GuiContextMenus</name>
-    <message>
-      <source>Add to Favorites</source>
-      <translation>添加到收藏</translation>
-    </message>
-    <message>
-      <source>Are you sure you want to delete %1's %2?</source>
-      <translation>确定要删除 %1 的 %2 吗？</translation>
-    </message>
-    <message>
-      <source>Boot Game Detached</source>
-      <translation>分离模式启动</translation>
-    </message>
-    <message>
-      <source>Cheats / Patches</source>
-      <translation>作弊码/补丁</translation>
-    </message>
-    <message>
-      <source>Compatibility...</source>
-      <translation>兼容性...</translation>
-    </message>
-    <message>
-      <source>Configure game-specific settings</source>
-      <translation>配置游戏特定设置</translation>
-    </message>
-    <message>
-      <source>Confirm Deletion</source>
-      <translation>确认删除</translation>
-    </message>
-    <message>
-      <source>Copy All</source>
-      <translation>复制全部</translation>
-    </message>
-    <message>
-      <source>Copy Name</source>
-      <translation>复制名称</translation>
-    </message>
-    <message>
-      <source>Copy Serial</source>
-      <translation>复制序列号</translation>
-    </message>
-    <message>
-      <source>Copy Size</source>
-      <translation>复制大小</translation>
-    </message>
-    <message>
-      <source>Copy Version</source>
-      <translation>复制版本</translation>
-    </message>
-    <message>
-      <source>Copy info...</source>
-      <translation>复制信息...</translation>
-    </message>
-    <message>
-      <source>Create Shortcut</source>
-      <translation>创建快捷方式</translation>
-    </message>
-    <message>
-      <source>Create game-specific settings from global settings</source>
-      <translation>从全局设置创建游戏特定设置</translation>
-    </message>
-    <message>
-      <source>Custom Configuration...</source>
-      <translation>自定义配置...</translation>
-    </message>
-    <message>
-      <source>DLC</source>
-      <translation>DLC</translation>
-    </message>
-    <message>
-      <source>Delete %1</source>
-      <translation>删除 %1</translation>
-    </message>
-    <message>
-      <source>Delete DLC</source>
-      <translation>删除DLC</translation>
-    </message>
-    <message>
-      <source>Delete Game</source>
-      <translation>删除游戏</translation>
-    </message>
-    <message>
-      <source>Delete Game-specific settings?</source>
-      <translation>删除游戏特定设置？</translation>
-    </message>
-    <message>
-      <source>Delete Save Data</source>
-      <translation>删除存档数据</translation>
-    </message>
-    <message>
-      <source>Delete Shader Cache</source>
-      <translation>删除着色器缓存</translation>
-    </message>
-    <message>
-      <source>Delete Trophy</source>
-      <translation>删除奖杯</translation>
-    </message>
-    <message>
-      <source>Delete Update</source>
-      <translation>删除更新</translation>
-    </message>
-    <message>
-      <source>Delete game-specific settings</source>
-      <translation>删除游戏特定设置</translation>
-    </message>
-    <message>
-      <source>Delete...</source>
-      <translation>删除...</translation>
-    </message>
-    <message>
-      <source>Error</source>
-      <translation>错误</translation>
-    </message>
-    <message>
-      <source>Error creating shortcut!</source>
-      <translation>创建快捷方式时出错！</translation>
-    </message>
-    <message>
-      <source>Failed to convert icon.</source>
-      <translation>转换图标失败。</translation>
-    </message>
-    <message>
-      <source>Failed to launch game in detached mode.</source>
-      <translation>分离模式启动游戏失败。</translation>
-    </message>
-    <message>
-      <source>Game</source>
-      <translation>游戏</translation>
-    </message>
-    <message>
-      <source>Invalid game path.</source>
-      <translation>游戏路径无效。</translation>
-    </message>
-    <message>
-      <source>Launch with game specific configs (default)</source>
-      <translation>使用游戏特定配置启动（默认）</translation>
-    </message>
-    <message>
-      <source>Launch with global config only</source>
-      <translation>仅使用全局配置启动</translation>
-    </message>
-    <message>
-      <source>Launch...</source>
-      <translation>启动...</translation>
-    </message>
-    <message>
-      <source>Mods Folder</source>
-      <translation>Mod文件夹</translation>
-    </message>
-    <message>
-      <source>Mods folder not found. Expected paths: %1</source>
-      <translation>未找到Mod文件夹。预期路径：%1</translation>
-    </message>
-    <message>
-      <source>No log file found for this game!</source>
-      <translation>未找到此游戏的日志文件！</translation>
-    </message>
-    <message>
-      <source>Open Custom Configuration Folder</source>
-      <translation>打开自定义配置文件夹</translation>
-    </message>
-    <message>
-      <source>Open Folder...</source>
-      <translation>打开文件夹...</translation>
-    </message>
-    <message>
-      <source>Open Game Folder</source>
-      <translation>打开游戏文件夹</translation>
-    </message>
-    <message>
-      <source>Open Log Folder</source>
-      <translation>打开日志文件夹</translation>
-    </message>
-    <message>
-      <source>Open Mods Folder</source>
-      <translation>打开Mod文件夹</translation>
-    </message>
-    <message>
-      <source>Open Save Data Folder</source>
-      <translation>打开存档文件夹</translation>
-    </message>
-    <message>
-      <source>Open Update Folder</source>
-      <translation>打开更新文件夹</translation>
-    </message>
-    <message>
-      <source>Remove from Favorites</source>
-      <translation>从收藏中移除</translation>
-    </message>
-    <message>
-      <source>SFO Viewer</source>
-      <translation>SFO查看器</translation>
-    </message>
-    <message>
-      <source>SFO Viewer for </source>
-      <translation>SFO查看器 - </translation>
-    </message>
-    <message>
-      <source>Save Data</source>
-      <translation>存档数据</translation>
-    </message>
-    <message>
-      <source>Shader Cache</source>
-      <translation>着色器缓存</translation>
-    </message>
-    <message>
-      <source>Shortcut created successfully!</source>
-      <translation>快捷方式创建成功！</translation>
-    </message>
-    <message>
-      <source>Shortcut creation</source>
-      <translation>快捷方式创建</translation>
-    </message>
-    <message>
-      <source>Submit a report</source>
-      <translation>提交报告</translation>
-    </message>
-    <message>
-      <source>This game does not have any saved Shader Cache to delete!</source>
-      <translation>此游戏没有已保存的着色器缓存可删除！</translation>
-    </message>
-    <message>
-      <source>This game has no DLC to delete!</source>
-      <translation>此游戏没有可删除的DLC！</translation>
-    </message>
-    <message>
-      <source>This game has no save data to delete!</source>
-      <translation>此游戏没有可删除的存档数据！</translation>
-    </message>
-    <message>
-      <source>This game has no saved trophies to delete!</source>
-      <translation>此游戏没有已保存的奖杯可删除！</translation>
-    </message>
-    <message>
-      <source>This game has no update folder to open!</source>
-      <translation>此游戏没有可打开的更新文件夹！</translation>
-    </message>
-    <message>
-      <source>This game has no update to delete!</source>
-      <translation>此游戏没有可删除的更新！</translation>
-    </message>
-    <message>
-      <source>Trophy</source>
-      <translation>奖杯</translation>
-    </message>
-    <message>
-      <source>Trophy Viewer</source>
-      <translation>奖杯查看器</translation>
-    </message>
-    <message>
-      <source>Update</source>
-      <translation>更新</translation>
-    </message>
-    <message>
-      <source>Update Folder</source>
-      <translation>更新文件夹</translation>
-    </message>
-    <message>
-      <source>Update database</source>
-      <translation>更新数据库</translation>
-    </message>
-    <message>
-      <source>Update folder not found for this game.</source>
-      <translation>未找到此游戏的更新文件夹。</translation>
-    </message>
-    <message>
-      <source>View report</source>
-      <translation>查看报告</translation>
-    </message>
-  </context>
-  <context>
     <name>HubMenuWidget</name>
     <message>
       <source>Cheats / Patches</source>
@@ -5468,69 +5278,6 @@ Please select a new location.</source>
     <message>
       <source>Exit</source>
       <translation>退出</translation>
-    </message>
-  </context>
-  <context>
-    <name>KBMSettings</name>
-    <message>
-      <source>Apply</source>
-      <translation>应用</translation>
-    </message>
-    <message>
-      <source>Cancel</source>
-      <translation>取消</translation>
-    </message>
-    <message>
-      <source>Cannot bind any unique input more than once. Duplicate inputs mapped to the following buttons:\n\n%1</source>
-      <translation>每个输入只能绑定一次。以下按键存在重复绑定：\n\n%1</translation>
-    </message>
-    <message>
-      <source>Cannot set mapping</source>
-      <translation>无法设置映射</translation>
-    </message>
-    <message>
-      <source>Common Config</source>
-      <translation>通用配置</translation>
-    </message>
-    <message>
-      <source>Common Config Selected</source>
-      <translation>已选择通用配置</translation>
-    </message>
-    <message>
-      <source>Copy values from Common Config</source>
-      <translation>从通用配置复制值</translation>
-    </message>
-    <message>
-      <source>Do you want to overwrite existing mappings with the mappings from the Common Config?</source>
-      <translation>是否要用通用配置覆盖现有映射？</translation>
-    </message>
-    <message>
-      <source>Help</source>
-      <translation>帮助</translation>
-    </message>
-    <message>
-      <source>Mousewheel cannot be mapped to stick outputs</source>
-      <translation>鼠标滚轮无法映射到摇杆输出</translation>
-    </message>
-    <message>
-      <source>Press a key</source>
-      <translation>按下一个键</translation>
-    </message>
-    <message>
-      <source>Restore Defaults</source>
-      <translation>恢复默认值</translation>
-    </message>
-    <message>
-      <source>Save</source>
-      <translation>保存</translation>
-    </message>
-    <message>
-      <source>This button copies mappings from the Common Config to the currently selected profile, and cannot be used when the currently selected profile is the Common Config.</source>
-      <translation>此按钮将通用配置的映射复制到当前选中的配置。当前选中通用配置时不可使用。</translation>
-    </message>
-    <message>
-      <source>Unable to Save</source>
-      <translation>无法保存</translation>
     </message>
   </context>
   <context>
