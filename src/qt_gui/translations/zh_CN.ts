@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- SPDX-FileCopyrightText: Copyright 2025 shadPS4 Emulator Project
-     SPDX-License-Identifier: GPL-2.0-or-later -->
-<!DOCTYPE TS>
+<?xml version='1.0' encoding='utf-8'?>
 <TS version="2.1" language="zh_CN" sourcelanguage="en">
   <context>
     <name>AboutDialog</name>
@@ -1715,15 +1712,15 @@
     </message>
     <message>
       <source>BP Boot</source>
-      <translation>大画面启动</translation>
+      <translation>大屏启动</translation>
     </message>
     <message>
       <source>BigPicture</source>
-      <translation>大画面模式</translation>
+      <translation>大屏模式</translation>
     </message>
     <message>
       <source>Boot on Big Picture</source>
-      <translation>以大画面模式启动</translation>
+      <translation>以大屏模式启动</translation>
     </message>
     <message>
       <source>Boot on GameHub</source>
@@ -1912,6 +1909,10 @@
     <message>
       <source>Version shadPS4</source>
       <translation>shadPS4 版本</translation>
+    </message>
+    <message>
+      <source>Pause Game When Unfocused</source>
+      <translation>失去焦点时暂停游戏</translation>
     </message>
   </context>
   <context>
@@ -3014,6 +3015,34 @@
       <source>Width/Height:\\nSets the size of the emulator window at launch, which can be resized during gameplay.\\nThis is different from the in-game resolution.</source>
       <translation>宽/高：\n设置模拟器启动时的窗口大小，游戏过程中可调整。\n此设置不同于游戏内分辨率。</translation>
     </message>
+    <message>
+      <source>Enable Separate Update Folder</source>
+      <translation>启用独立更新文件夹</translation>
+    </message>
+    <message>
+      <source>Audio Backend</source>
+      <translation>音频后端</translation>
+    </message>
+    <message>
+      <source>Special Class 1</source>
+      <translation>特殊类型 1</translation>
+    </message>
+    <message>
+      <source>Special Class 2</source>
+      <translation>特殊类型 2</translation>
+    </message>
+    <message>
+      <source>Special Class 3</source>
+      <translation>特殊类型 3</translation>
+    </message>
+    <message>
+      <source>Special Class 4</source>
+      <translation>特殊类型 4</translation>
+    </message>
+    <message>
+      <source>Generate Portable folder Only</source>
+      <translation>仅生成便携文件夹</translation>
+    </message>
   </context>
   <context>
     <name>TrophyViewer</name>
@@ -4034,6 +4063,14 @@ Please select a new location.</source>
       <source>Version selected successfully:\n%1</source>
       <translation>版本选择成功：\n%1</translation>
     </message>
+    <message>
+      <source>Path to save versions</source>
+      <translation>版本保存路径</translation>
+    </message>
+    <message>
+      <source>Add Custom</source>
+      <translation>添加自定义</translation>
+    </message>
   </context>
   <context>
     <name>KBMDialog</name>
@@ -4163,6 +4200,26 @@ Please select a new location.</source>
     <message>
       <source>sync</source>
       <translation>同步</translation>
+    </message>
+    <message>
+      <source>Audio Backend</source>
+      <translation>音频后端</translation>
+    </message>
+    <message>
+      <source>Special Class 1</source>
+      <translation>特殊类型 1</translation>
+    </message>
+    <message>
+      <source>Special Class 2</source>
+      <translation>特殊类型 2</translation>
+    </message>
+    <message>
+      <source>Special Class 3</source>
+      <translation>特殊类型 3</translation>
+    </message>
+    <message>
+      <source>Special Class 4</source>
+      <translation>特殊类型 4</translation>
     </message>
   </context>
   <context>
