@@ -4221,6 +4221,439 @@ Please select a new location.</source>
       <source>Special Class 4</source>
       <translation>特殊类型 4</translation>
     </message>
+    <message>
+      <source>&amp;lt;b&amp;gt;Hint:&amp;lt;/b&amp;gt;&amp;lt;br/&amp;gt;
+												Extra Memory Allocation, you can set it from 1–9999. It adds that amount of memory to the emulator for usage and enables resolutions above 1440p.</source>
+      <translation type="unfinished" />
+    </message>
+    <message>
+      <source>300%</source>
+      <translation>300%</translation>
+    </message>
+    <message>
+      <source>Advanced</source>
+      <translation>高级</translation>
+    </message>
+    <message>
+      <source>Audio Device (DS4 speaker)</source>
+      <translation>音频设备（DS4 手柄扬声器）</translation>
+    </message>
+    <message>
+      <source>Audio Device (general)</source>
+      <translation>音频设备（通用）</translation>
+    </message>
+    <message>
+      <source>Balanced</source>
+      <translation>平衡</translation>
+    </message>
+    <message>
+      <source>Bottom</source>
+      <translation>底部</translation>
+    </message>
+    <message>
+      <source>Collect Shaders</source>
+      <translation>收集着色器</translation>
+    </message>
+    <message>
+      <source>Compression Level:</source>
+      <translation>压缩级别：</translation>
+    </message>
+    <message>
+      <source>Connected to Network</source>
+      <translation>已连接到网络</translation>
+    </message>
+    <message>
+      <source>Controller</source>
+      <translation>手柄</translation>
+    </message>
+    <message>
+      <source>Copy GPU Buffers</source>
+      <translation>复制 GPU 缓冲区</translation>
+    </message>
+    <message>
+      <source>Cursor</source>
+      <translation>光标</translation>
+    </message>
+    <message>
+      <source>Debug</source>
+      <translation>调试</translation>
+    </message>
+    <message>
+      <source>Default</source>
+      <translation>默认</translation>
+    </message>
+    <message>
+      <source>Disable</source>
+      <translation>禁用</translation>
+    </message>
+    <message>
+      <source>Disable FullScreen Tip on Boot</source>
+      <translation>启动时禁用全屏提示</translation>
+    </message>
+    <message>
+      <source>Disable Hardcoded Hotkeys</source>
+      <translation>禁用硬编码快捷键</translation>
+    </message>
+    <message>
+      <source>Disable Keyboard Bindings</source>
+      <translation>禁用键盘绑定</translation>
+    </message>
+    <message>
+      <source>Disable Trophy Notification</source>
+      <translation>禁用奖杯通知</translation>
+    </message>
+    <message>
+      <source>Disabled</source>
+      <translation>已禁用</translation>
+    </message>
+    <message>
+      <source>Display Mode</source>
+      <translation>显示模式</translation>
+    </message>
+    <message>
+      <source>Enable Auto Backups</source>
+      <translation>启用自动备份</translation>
+    </message>
+    <message>
+      <source>Enable Background Controller Input</source>
+      <translation>启用后台控制器输入</translation>
+    </message>
+    <message>
+      <source>Enable Cache Archive</source>
+      <translation>启用缓存归档</translation>
+    </message>
+    <message>
+      <source>Enable Crash Diagnostics</source>
+      <translation>启用崩溃诊断</translation>
+    </message>
+    <message>
+      <source>Enable DMA</source>
+      <translation>启用DMA</translation>
+    </message>
+    <message>
+      <source>Enable Debug Dumping</source>
+      <translation>启用调试转储</translation>
+    </message>
+    <message>
+      <source>Enable DevKit Mode</source>
+      <translation>启用开发机模式</translation>
+    </message>
+    <message>
+      <source>Enable Discord Rich Presence</source>
+      <translation>启用 Discord Rich Presence</translation>
+    </message>
+    <message>
+      <source>Enable FPS Limiter</source>
+      <translation>启用FPS限制</translation>
+    </message>
+    <message>
+      <source>Enable FSR</source>
+      <translation>启用 FSR</translation>
+    </message>
+    <message>
+      <source>Enable HDR</source>
+      <translation>启用 HDR</translation>
+    </message>
+    <message>
+      <source>Enable Logging</source>
+      <translation>启用日志记录</translation>
+    </message>
+    <message>
+      <source>Enable Mods</source>
+      <translation>启用Mod</translation>
+    </message>
+    <message>
+      <source>Enable Motion Controls</source>
+      <translation>启用体感控制</translation>
+    </message>
+    <message>
+      <source>Enable Neo Mode</source>
+      <translation>启用Neo模式</translation>
+    </message>
+    <message>
+      <source>Enable PS/Home/Guide button for Hotkeys</source>
+      <translation>启用PS/Home/Guide按钮作为快捷键</translation>
+    </message>
+    <message>
+      <source>Enable RCAS (sharpening)</source>
+      <translation>启用 RCAS（锐化）</translation>
+    </message>
+    <message>
+      <source>Enable RenderDoc Debugging</source>
+      <translation>启用 RenderDoc 调试</translation>
+    </message>
+    <message>
+      <source>Enable Shader Cache</source>
+      <translation>启用着色器缓存</translation>
+    </message>
+    <message>
+      <source>Enable Shader Patching</source>
+      <translation>启用着色器补丁</translation>
+    </message>
+    <message>
+      <source>Enable Shader Skips</source>
+      <translation>启用着色器跳过</translation>
+    </message>
+    <message>
+      <source>Enable Shaders Dumping</source>
+      <translation>启用着色器转储</translation>
+    </message>
+    <message>
+      <source>Enable Updates</source>
+      <translation>启用更新</translation>
+    </message>
+    <message>
+      <source>Enable Vulkan Synchronization Validation</source>
+      <translation>启用 Vulkan 同步验证</translation>
+    </message>
+    <message>
+      <source>Enable Vulkan Validation Layers</source>
+      <translation>启用 Vulkan 验证层</translation>
+    </message>
+    <message>
+      <source>Experimental</source>
+      <translation>实验性功能</translation>
+    </message>
+    <message>
+      <source>FPS Limit</source>
+      <translation>FPS限制</translation>
+    </message>
+    <message>
+      <source>FSR Settings</source>
+      <translation>FSR 设置</translation>
+    </message>
+    <message>
+      <source>Fast</source>
+      <translation>快速</translation>
+    </message>
+    <message>
+      <source>Fullscreen</source>
+      <translation>全屏</translation>
+    </message>
+    <message>
+      <source>Fullscreen (Borderless)</source>
+      <translation>无边框全屏</translation>
+    </message>
+    <message>
+      <source>Game</source>
+      <translation>游戏</translation>
+    </message>
+    <message>
+      <source>Game Volume</source>
+      <translation>游戏音量</translation>
+    </message>
+    <message>
+      <source>General</source>
+      <translation>常规</translation>
+    </message>
+    <message>
+      <source>Graphics</source>
+      <translation>图像</translation>
+    </message>
+    <message>
+      <source>Guest Debug Markers</source>
+      <translation>Guest 调试标记</translation>
+    </message>
+    <message>
+      <source>H:</source>
+      <translation>高：</translation>
+    </message>
+    <message>
+      <source>HTTP Host Override</source>
+      <translation>HTTP主机覆盖</translation>
+    </message>
+    <message>
+      <source>Hide Cursor</source>
+      <translation>隐藏光标</translation>
+    </message>
+    <message>
+      <source>Hide Cursor Idle Timeout</source>
+      <translation>光标隐藏闲置时长</translation>
+    </message>
+    <message>
+      <source>Host Debug Markers</source>
+      <translation>Host 调试标记</translation>
+    </message>
+    <message>
+      <source>Input</source>
+      <translation>输入</translation>
+    </message>
+    <message>
+      <source>Left</source>
+      <translation>左边</translation>
+    </message>
+    <message>
+      <source>LinearImage Readbacks</source>
+      <translation>线性图像回读</translation>
+    </message>
+    <message>
+      <source>Load Presets...</source>
+      <translation>加载预设……</translation>
+    </message>
+    <message>
+      <source>Log</source>
+      <translation>日志</translation>
+    </message>
+    <message>
+      <source>Log Filter</source>
+      <translation>日志过滤</translation>
+    </message>
+    <message>
+      <source>Log Type</source>
+      <translation>日志类型</translation>
+    </message>
+    <message>
+      <source>Logger</source>
+      <translation>日志</translation>
+    </message>
+    <message>
+      <source>Low</source>
+      <translation>低</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>最大</translation>
+    </message>
+    <message>
+      <source>Memory Allocation</source>
+      <translation>内存分配</translation>
+    </message>
+    <message>
+      <source>Memory Compression</source>
+      <translation>内存压缩</translation>
+    </message>
+    <message>
+      <source>Mods Configuration</source>
+      <translation>Mod配置</translation>
+    </message>
+    <message>
+      <source>Notification Duration</source>
+      <translation>通知显示持续时间</translation>
+    </message>
+    <message>
+      <source>Open Log Location</source>
+      <translation>打开日志位置</translation>
+    </message>
+    <message>
+      <source>OpenAL</source>
+      <translation>OpenAL</translation>
+    </message>
+    <message>
+      <source>Player 1</source>
+      <translation>玩家1</translation>
+    </message>
+    <message>
+      <source>Player 2</source>
+      <translation>玩家2</translation>
+    </message>
+    <message>
+      <source>Player 3</source>
+      <translation>玩家3</translation>
+    </message>
+    <message>
+      <source>Player 4</source>
+      <translation>玩家4</translation>
+    </message>
+    <message>
+      <source>Present Mode</source>
+      <translation>呈现模式</translation>
+    </message>
+    <message>
+      <source>RCAS Attenuation:</source>
+      <translation>RCAS 衰减：</translation>
+    </message>
+    <message>
+      <source>Readbacks Speed</source>
+      <translation>回读速度</translation>
+    </message>
+    <message>
+      <source>Right</source>
+      <translation>右边</translation>
+    </message>
+    <message>
+      <source>SDL</source>
+      <translation>SDL</translation>
+    </message>
+    <message>
+      <source>Select memory compression level for better memory usage</source>
+      <translation>选择内存压缩级别以优化内存使用</translation>
+    </message>
+    <message>
+      <source>Select the readbacks speed mode</source>
+      <translation>选择回读速度模式</translation>
+    </message>
+    <message>
+      <source>Settings</source>
+      <translation>设置</translation>
+    </message>
+    <message>
+      <source>ShadNet Enabled</source>
+      <translation>已启用ShadNet</translation>
+    </message>
+    <message>
+      <source>Show Splash Screen</source>
+      <translation>显示启动画面</translation>
+    </message>
+    <message>
+      <source>Special Pad Settings</source>
+      <translation>特殊手柄设置</translation>
+    </message>
+    <message>
+      <source>Swap X/Circle Buttons (Xbox Layout)</source>
+      <translation>交换X/圆圈按钮（Xbox布局）</translation>
+    </message>
+    <message>
+      <source>Top</source>
+      <translation>顶部</translation>
+    </message>
+    <message>
+      <source>Trophy</source>
+      <translation>奖杯</translation>
+    </message>
+    <message>
+      <source>Trophy Notification Position</source>
+      <translation>奖杯通知位置</translation>
+    </message>
+    <message>
+      <source>Unsafe</source>
+      <translation>不安全</translation>
+    </message>
+    <message>
+      <source>Updates Configuration</source>
+      <translation>更新配置</translation>
+    </message>
+    <message>
+      <source>Use Host Memory Fallback (System RAM as VRAM)</source>
+      <translation>使用主机内存回退（系统RAM作为VRAM）</translation>
+    </message>
+    <message>
+      <source>Use Unified Input Config</source>
+      <translation>使用统一输入配置</translation>
+    </message>
+    <message>
+      <source>Vblank Frequency</source>
+      <translation>垂直消隐频率</translation>
+    </message>
+    <message>
+      <source>Video</source>
+      <translation>显示</translation>
+    </message>
+    <message>
+      <source>W:</source>
+      <translation>宽：</translation>
+    </message>
+    <message>
+      <source>Window Size</source>
+      <translation>窗口大小</translation>
+    </message>
+    <message>
+      <source>Windowed</source>
+      <translation>窗口</translation>
+    </message>
+    <message>
+      <source>localhost</source>
+      <translation>localhost</translation>
+    </message>
   </context>
   <context>
     <name>gui_context_menus</name>
