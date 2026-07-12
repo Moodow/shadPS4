@@ -740,6 +740,18 @@
       <source>Reset to Default</source>
       <translation>重置为默认</translation>
     </message>
+    <message>
+      <source>Save</source>
+      <translation>保存</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>取消</translation>
+    </message>
+    <message>
+      <source>Default</source>
+      <translation>默认</translation>
+    </message>
   </context>
   <context>
     <name>ElfViewer</name>
@@ -761,29 +773,6 @@
     <message>
       <source>Loading...</source>
       <translation>加载中...</translation>
-    </message>
-  </context>
-  <context>
-    <name>GameInstallDialog</name>
-    <message>
-      <source>shadPS4 - Choose directory</source>
-      <translation>shadPS4 - 选择文件目录</translation>
-    </message>
-    <message>
-      <source>Directory to install games</source>
-      <translation>要安装游戏的目录</translation>
-    </message>
-    <message>
-      <source>Browse</source>
-      <translation>浏览</translation>
-    </message>
-    <message>
-      <source>Error</source>
-      <translation>错误</translation>
-    </message>
-    <message>
-      <source>Directory to install DLC</source>
-      <translation>安装 DLC 的目录</translation>
     </message>
   </context>
   <context>
@@ -4472,13 +4461,6 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>KBMDialog</name>
-    <message>
-      <source>Game Settings</source>
-      <translation>游戏设置</translation>
-    </message>
-  </context>
-  <context>
     <name>BigPictureWidget</name>
     <message>
       <source>Game Settings</source>
@@ -4593,7 +4575,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>game_cinematic_frame</name>
+    <name>GameCinematicFrame</name>
     <message>
       <source>Play Game</source>
       <translation>运行游戏</translation>
@@ -4604,7 +4586,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>game_list_utils</name>
+    <name>GameListUtils</name>
     <message>
       <source>B</source>
       <translation>B</translation>
@@ -4627,7 +4609,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>game_specific_dialog</name>
+    <name>GameSpecificDialog</name>
     <message>
       <source>Always</source>
       <translation>总是</translation>
@@ -5119,7 +5101,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>gui_context_menus</name>
+    <name>GuiContextMenus</name>
     <message>
       <source>Add to Favorites</source>
       <translation>添加到收藏</translation>
@@ -5390,7 +5372,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>hub_menu_widget</name>
+    <name>HubMenuWidget</name>
     <message>
       <source>Cheats / Patches</source>
       <translation>作弊码/补丁</translation>
@@ -5521,66 +5503,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>kbm_config_dialog</name>
-    <message>
-      <source>Could not open the file for reading</source>
-      <translation>无法打开文件进行读取</translation>
-    </message>
-    <message>
-      <source>Could not open the file for writing</source>
-      <translation>无法打开文件进行写入</translation>
-    </message>
-    <message>
-      <source>Do you want to reset this config to your custom default config?</source>
-      <translation>是否要将此配置重置为自定义默认配置？</translation>
-    </message>
-    <message>
-      <source>Do you want to reset your custom default config to the original default config?</source>
-      <translation>是否要将自定义默认配置重置为原始默认配置？</translation>
-    </message>
-    <message>
-      <source>Do you want to save changes?</source>
-      <translation>是否要保存更改？</translation>
-    </message>
-    <message>
-      <source>Edit Keyboard + Mouse and Controller input bindings</source>
-      <translation>编辑键盘鼠标和控制器输入绑定</translation>
-    </message>
-    <message>
-      <source>Error</source>
-      <translation>错误</translation>
-    </message>
-    <message>
-      <source>Help</source>
-      <translation>帮助</translation>
-    </message>
-    <message>
-      <source>Reset to Default</source>
-      <translation>重置为默认</translation>
-    </message>
-    <message>
-      <source>Save Changes</source>
-      <translation>保存更改</translation>
-    </message>
-    <message>
-      <source>Use Per-Game configs</source>
-      <translation>使用游戏独立配置</translation>
-    </message>
-    <message>
-      <source>Save</source>
-      <translation>保存</translation>
-    </message>
-    <message>
-      <source>Cancel</source>
-      <translation>取消</translation>
-    </message>
-    <message>
-      <source>Default</source>
-      <translation>默认</translation>
-    </message>
-  </context>
-  <context>
-    <name>kbm_gui</name>
+    <name>KBMSettings</name>
     <message>
       <source>Apply</source>
       <translation>应用</translation>
@@ -5643,30 +5566,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>kbm_help_dialog</name>
-    <message>
-      <source>FAQ</source>
-      <translation>常见问题</translation>
-    </message>
-    <message>
-      <source>Keybindings</source>
-      <translation>按键绑定</translation>
-    </message>
-    <message>
-      <source>Quickstart</source>
-      <translation>快速入门</translation>
-    </message>
-    <message>
-      <source>Special Bindings</source>
-      <translation>特殊绑定</translation>
-    </message>
-    <message>
-      <source>Syntax</source>
-      <translation>语法说明</translation>
-    </message>
-  </context>
-  <context>
-    <name>welcome_dialog</name>
+    <name>WelcomeDialog</name>
     <message>
       <source>Close</source>
       <translation>关闭</translation>
