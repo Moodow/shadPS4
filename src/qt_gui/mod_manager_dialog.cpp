@@ -1401,7 +1401,8 @@ void ModManagerDialog::installModFromDisk() {
     QDir().mkpath(tempExtract);
 
     if (!ExtractArchive(path, tempExtract)) {
-        QMessageBox::warning(this, tr("Extraction Failed"), tr("Unable to extract the mod archive."));
+        QMessageBox::warning(this, tr("Extraction Failed"),
+                             tr("Unable to extract the mod archive."));
         QDir(tempExtract).removeRecursively();
         return;
     }
@@ -1831,7 +1832,8 @@ void ModManagerDialog::showModDetails(const QString& modName) {
 
     ModInfo modInfo = modTracker->getMod(modName);
     QString infoText = QString("Name: %1\n").arg(modName);
-    infoText += QString("Author: %1\n").arg(modInfo.author.isEmpty() ? tr("Unknown") : modInfo.author);
+    infoText +=
+        QString("Author: %1\n").arg(modInfo.author.isEmpty() ? tr("Unknown") : modInfo.author);
     infoText += QString("Version: %1\n").arg(modInfo.version);
     infoText += QString("Size: %1\n").arg(getModSizeString(modName));
     infoText += QString("Status: %1\n").arg(modInfo.isActive ? "Active" : "Inactive");
@@ -2010,11 +2012,11 @@ void ModManagerDialog::updateNexusKeyStatus() {
 
 void ModManagerDialog::onNexusSetApiKeyClicked() {
     bool ok = false;
-    QString key = QInputDialog::getText(this, tr("Nexus Mods API Key"),
-                                        tr("Paste your Nexus Mods personal API key\n"
-                                           "(get it at nexusmods.com -> your profile -> API Keys):"),
-                                        QLineEdit::Normal,
-                                        m_nexusApi ? m_nexusApi->apiKey() : QString(), &ok);
+    QString key = QInputDialog::getText(
+        this, tr("Nexus Mods API Key"),
+        tr("Paste your Nexus Mods personal API key\n"
+           "(get it at nexusmods.com -> your profile -> API Keys):"),
+        QLineEdit::Normal, m_nexusApi ? m_nexusApi->apiKey() : QString(), &ok);
 
     if (ok && !key.trimmed().isEmpty() && m_nexusApi) {
         m_nexusApi->setApiKey(key.trimmed());
