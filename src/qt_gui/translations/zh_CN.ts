@@ -4750,7 +4750,8 @@ Please select a new location.</source>
     <message>
       <source>&amp;lt;b&amp;gt;Hint:&amp;lt;/b&amp;gt;&amp;lt;br/&amp;gt;
 												Extra Memory Allocation, you can set it from 1–9999. It adds that amount of memory to the emulator for usage and enables resolutions above 1440p.</source>
-      <translation type="unfinished" />
+      <translation>&amp;lt;b&amp;gt;提示：&amp;lt;/b&amp;gt;&amp;lt;br/&amp;gt;
+												Extra Memory Allocation, you can set it from 1–9999. It adds that amount of memory to the emulator for usage and enables resolutions above 1440p.</translation>
     </message>
     <message>
       <source>300%</source>
