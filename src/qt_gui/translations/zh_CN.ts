@@ -3014,7 +3014,7 @@
     </message>
     <message>
       <source>Revert</source>
-      <translation>还原</translation>
+      <translation>Revert</translation>
     </message>
     <message>
       <source>Save Data Path:\\nThe folder where game save data will be saved.</source>
