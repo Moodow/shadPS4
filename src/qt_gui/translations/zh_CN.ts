@@ -689,6 +689,10 @@
       <source>No gamepads detected</source>
       <translation>未检测到手柄</translation>
     </message>
+    <message>
+      <source>Default controller not connected</source>
+      <translation>默认手柄未连接</translation>
+    </message>
   </context>
   <context>
     <name>EditorDialog</name>

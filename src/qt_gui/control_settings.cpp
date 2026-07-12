@@ -758,7 +758,7 @@ void ControlSettings::CheckGamePad() {
         ui->DefaultGamepadName->setText(SDL_GetGamepadNameForID(gamepads[defaultIndex]));
         ui->DefaultGamepadLabel->setText(tr("ID: ") + defaultGUID);
     } else {
-        ui->DefaultGamepadName->setText("Default controller not connected");
+        ui->DefaultGamepadName->setText(tr("Default controller not connected"));
         ui->DefaultGamepadLabel->setText(tr("n/a"));
     }
 
