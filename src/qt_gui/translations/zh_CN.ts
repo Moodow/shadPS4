@@ -3046,6 +3046,10 @@
       <source>Generate Portable folder Only</source>
       <translation>仅生成便携文件夹</translation>
     </message>
+    <message>
+      <source>Show Splash Screen</source>
+      <translation>显示启动画面</translation>
+    </message>
   </context>
   <context>
     <name>TrophyViewer</name>
@@ -4108,6 +4112,66 @@ Please select a new location.</source>
       <source>Settings</source>
       <translation>设置</translation>
     </message>
+    <message>
+      <source>Arrow Left/Right</source>
+      <translation>左右箭头</translation>
+    </message>
+    <message>
+      <source>Arrow Down</source>
+      <translation>下箭头</translation>
+    </message>
+    <message>
+      <source>Arrow Up</source>
+      <translation>上箭头</translation>
+    </message>
+    <message>
+      <source>Shift + Arrow Up</source>
+      <translation>Shift + 上箭头</translation>
+    </message>
+    <message>
+      <source>Shift + N</source>
+      <translation>Shift + N</translation>
+    </message>
+    <message>
+      <source>Mute Background Music</source>
+      <translation>静音背景音乐</translation>
+    </message>
+    <message>
+      <source>Press - R - </source>
+      <translation>按 R 键</translation>
+    </message>
+    <message>
+      <source>Stop/Play Background Music</source>
+      <translation>停止/播放背景音乐</translation>
+    </message>
+    <message>
+      <source>Esc</source>
+      <translation>Esc</translation>
+    </message>
+    <message>
+      <source>Hotkeys &amp; Navigation Keys</source>
+      <translation>快捷键与导航键</translation>
+    </message>
+    <message>
+      <source>Arrow Up/Down</source>
+      <translation>上下箭头</translation>
+    </message>
+    <message>
+      <source>Arrow Right</source>
+      <translation>右箭头</translation>
+    </message>
+    <message>
+      <source>Arrow Left</source>
+      <translation>左箭头</translation>
+    </message>
+    <message>
+      <source>Backspace</source>
+      <translation>退格键</translation>
+    </message>
+    <message>
+      <source>Esc/Click on Fork Icon</source>
+      <translation>Esc/点击 Fork 图标</translation>
+    </message>
   </context>
   <context>
     <name>GameDirectoryDialog</name>
@@ -4974,6 +5038,90 @@ Please select a new location.</source>
     <message>
       <source>Tools &amp; Config</source>
       <translation>工具与配置</translation>
+    </message>
+    <message>
+      <source>Hotkeys &amp; Navigation Keys</source>
+      <translation>快捷键与导航键</translation>
+    </message>
+    <message>
+      <source>Arrow Up/Down</source>
+      <translation>上下箭头</translation>
+    </message>
+    <message>
+      <source>Navigate Games/Buttons</source>
+      <translation>浏览游戏/按钮</translation>
+    </message>
+    <message>
+      <source>Arrow Right</source>
+      <translation>右箭头</translation>
+    </message>
+    <message>
+      <source>Focus on Buttons</source>
+      <translation>聚焦按钮</translation>
+    </message>
+    <message>
+      <source>Arrow Left</source>
+      <translation>左箭头</translation>
+    </message>
+    <message>
+      <source>Focus on Games</source>
+      <translation>聚焦游戏</translation>
+    </message>
+    <message>
+      <source>Enter/Space</source>
+      <translation>回车/空格</translation>
+    </message>
+    <message>
+      <source>Select/Play</source>
+      <translation>选择/运行</translation>
+    </message>
+    <message>
+      <source>Backspace</source>
+      <translation>退格键</translation>
+    </message>
+    <message>
+      <source>Hide/Show Games and Buttons</source>
+      <translation>隐藏/显示游戏和按钮</translation>
+    </message>
+    <message>
+      <source>Press - P - </source>
+      <translation>按 P 键</translation>
+    </message>
+    <message>
+      <source>Play Highlighted Game</source>
+      <translation>运行选中游戏</translation>
+    </message>
+    <message>
+      <source>Press - M - </source>
+      <translation>按 M 键</translation>
+    </message>
+    <message>
+      <source>Press - G - </source>
+      <translation>按 G 键</translation>
+    </message>
+    <message>
+      <source>Games Settings</source>
+      <translation>游戏设置</translation>
+    </message>
+    <message>
+      <source>Press - S - </source>
+      <translation>按 S 键</translation>
+    </message>
+    <message>
+      <source>Press - H - </source>
+      <translation>按 H 键</translation>
+    </message>
+    <message>
+      <source>Hotkeys Setup</source>
+      <translation>快捷键设置</translation>
+    </message>
+    <message>
+      <source>Esc/Click on Fork Icon</source>
+      <translation>Esc/点击 Fork 图标</translation>
+    </message>
+    <message>
+      <source>Exit</source>
+      <translation>退出</translation>
     </message>
   </context>
   <context>
