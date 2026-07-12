@@ -635,7 +635,7 @@
     </message>
     <message>
       <source>ID: </source>
-      <translation>ID:  </translation>
+      <translation>ID：</translation>
     </message>
     <message>
       <source>Default Controller Selected</source>
@@ -668,6 +668,26 @@
     <message>
       <source>Cannot bind any unique input more than once. Duplicate inputs mapped to the following buttons:\n\n%1</source>
       <translation>每个输入只能绑定一次。以下按键存在重复绑定：\n\n%1</translation>
+    </message>
+    <message>
+      <source>Left Stick Deadzone</source>
+      <translation>左摇杆死区</translation>
+    </message>
+    <message>
+      <source>Min Deadzone (def:2 max:127)</source>
+      <translation>最小死区（默认2 最大127）</translation>
+    </message>
+    <message>
+      <source>Max Deadzone (def:127 max:127)</source>
+      <translation>最大死区（默认127 最大127）</translation>
+    </message>
+    <message>
+      <source>Right Stick Deadzone</source>
+      <translation>右摇杆死区</translation>
+    </message>
+    <message>
+      <source>No gamepads detected</source>
+      <translation>未检测到手柄</translation>
     </message>
   </context>
   <context>
@@ -1204,6 +1224,26 @@
       <source>Cannot bind any unique input more than once. Duplicate inputs mapped to the following buttons:\n\n%1</source>
       <translation>每个输入只能绑定一次。以下按键存在重复绑定：\n\n%1</translation>
     </message>
+    <message>
+      <source>Screenshot</source>
+      <translation>截图</translation>
+    </message>
+    <message>
+      <source>Volume Up</source>
+      <translation>音量加</translation>
+    </message>
+    <message>
+      <source>Volume Down</source>
+      <translation>音量减</translation>
+    </message>
+    <message>
+      <source>Volume Mute</source>
+      <translation>静音</translation>
+    </message>
+    <message>
+      <source>Toggle Mouse to Touchpad Emulation</source>
+      <translation>切换鼠标触控板模拟</translation>
+    </message>
   </context>
   <context>
     <name>KBMSettings</name>
@@ -1402,6 +1442,30 @@
     <message>
       <source>Touchpad Right</source>
       <translation>触摸板右侧</translation>
+    </message>
+    <message>
+      <source>L1</source>
+      <translation>L1</translation>
+    </message>
+    <message>
+      <source>L2</source>
+      <translation>L2</translation>
+    </message>
+    <message>
+      <source>R1</source>
+      <translation>R1</translation>
+    </message>
+    <message>
+      <source>R2</source>
+      <translation>R2</translation>
+    </message>
+    <message>
+      <source>L3</source>
+      <translation>L3</translation>
+    </message>
+    <message>
+      <source>R3</source>
+      <translation>R3</translation>
     </message>
   </context>
   <context>
@@ -2946,7 +3010,7 @@
     </message>
     <message>
       <source>Revert</source>
-      <translation>Revert</translation>
+      <translation>还原</translation>
     </message>
     <message>
       <source>Save Data Path:\\nThe folder where game save data will be saved.</source>
@@ -3049,6 +3113,262 @@
     <message>
       <source>Show Splash Screen</source>
       <translation>显示启动画面</translation>
+    </message>
+    <message>
+      <source>SDL</source>
+      <translation>SDL</translation>
+    </message>
+    <message>
+      <source>OpenAL</source>
+      <translation>OpenAL</translation>
+    </message>
+    <message>
+      <source>Enable Auto Backups</source>
+      <translation>启用自动备份</translation>
+    </message>
+    <message>
+      <source>FPS Limit</source>
+      <translation>FPS限制</translation>
+    </message>
+    <message>
+      <source>Enable FPS Limiter</source>
+      <translation>启用FPS限制</translation>
+    </message>
+    <message>
+      <source>Player 1</source>
+      <translation>玩家1</translation>
+    </message>
+    <message>
+      <source>Player 2</source>
+      <translation>玩家2</translation>
+    </message>
+    <message>
+      <source>Player 3</source>
+      <translation>玩家3</translation>
+    </message>
+    <message>
+      <source>Player 4</source>
+      <translation>玩家4</translation>
+    </message>
+    <message>
+      <source>Special Pad Settings</source>
+      <translation>特殊手柄设置</translation>
+    </message>
+    <message>
+      <source>Enable Shader Cache</source>
+      <translation>启用着色器缓存</translation>
+    </message>
+    <message>
+      <source>Enable Cache Archive</source>
+      <translation>启用缓存归档</translation>
+    </message>
+    <message>
+      <source>Enable Shader Patching</source>
+      <translation>启用着色器补丁</translation>
+    </message>
+    <message>
+      <source>Game Volume</source>
+      <translation>游戏音量</translation>
+    </message>
+    <message>
+      <source>HTTP Host Override</source>
+      <translation>HTTP主机覆盖</translation>
+    </message>
+    <message>
+      <source>Enable DevKit Mode</source>
+      <translation>启用开发机模式</translation>
+    </message>
+    <message>
+      <source>Enable Neo Mode</source>
+      <translation>启用Neo模式</translation>
+    </message>
+    <message>
+      <source>Connected to Network</source>
+      <translation>已连接到网络</translation>
+    </message>
+    <message>
+      <source>Use Host Memory Fallback (System RAM as VRAM)</source>
+      <translation>使用主机内存回退（系统RAM作为VRAM）</translation>
+    </message>
+    <message>
+      <source>Memory Compression</source>
+      <translation>内存压缩</translation>
+    </message>
+    <message>
+      <source>Compression Level:</source>
+      <translation>压缩级别：</translation>
+    </message>
+    <message>
+      <source>Disabled</source>
+      <translation>已禁用</translation>
+    </message>
+    <message>
+      <source>Fast</source>
+      <translation>快速</translation>
+    </message>
+    <message>
+      <source>Balanced</source>
+      <translation>平衡</translation>
+    </message>
+    <message>
+      <source>Maximum</source>
+      <translation>最大</translation>
+    </message>
+    <message>
+      <source>Default</source>
+      <translation>默认</translation>
+    </message>
+    <message>
+      <source>Unsafe</source>
+      <translation>不安全</translation>
+    </message>
+    <message>
+      <source>Low</source>
+      <translation>低</translation>
+    </message>
+    <message>
+      <source>Disable FullScreen Tip on Boot</source>
+      <translation>启动时禁用全屏提示</translation>
+    </message>
+    <message>
+      <source>Enable Shader Skips</source>
+      <translation>启用着色器跳过</translation>
+    </message>
+    <message>
+      <source>Enable DMA</source>
+      <translation>启用DMA</translation>
+    </message>
+    <message>
+      <source>Emulator</source>
+      <translation>模拟器</translation>
+    </message>
+    <message>
+      <source>GUI Settings</source>
+      <translation>界面设置</translation>
+    </message>
+    <message>
+      <source>CPU Configuration</source>
+      <translation>CPU配置</translation>
+    </message>
+    <message>
+      <source>Custom CPU Cores (comma-separated):</source>
+      <translation>自定义CPU核心（逗号分隔）：</translation>
+    </message>
+    <message>
+      <source>Show Screenshot Notifications</source>
+      <translation>显示截图通知</translation>
+    </message>
+    <message>
+      <source>Usernames</source>
+      <translation>用户名</translation>
+    </message>
+    <message>
+      <source>Player 1 Enable</source>
+      <translation>启用玩家1</translation>
+    </message>
+    <message>
+      <source>Player 2 Enable</source>
+      <translation>启用玩家2</translation>
+    </message>
+    <message>
+      <source>Player 3 Enable</source>
+      <translation>启用玩家3</translation>
+    </message>
+    <message>
+      <source>Player 4 Enable</source>
+      <translation>启用玩家4</translation>
+    </message>
+    <message>
+      <source>Enable Players:</source>
+      <translation>启用玩家：</translation>
+    </message>
+    <message>
+      <source>ShadNet Network</source>
+      <translation>ShadNet网络</translation>
+    </message>
+    <message>
+      <source>Server</source>
+      <translation>服务器</translation>
+    </message>
+    <message>
+      <source>WebAPI Server</source>
+      <translation>WebAPI服务器</translation>
+    </message>
+    <message>
+      <source>Enable UPNP</source>
+      <translation>启用UPnP</translation>
+    </message>
+    <message>
+      <source>ShadNet Accounts</source>
+      <translation>ShadNet账户</translation>
+    </message>
+    <message>
+      <source>Sign In</source>
+      <translation>登录</translation>
+    </message>
+    <message>
+      <source>Account ID (NPID)</source>
+      <translation>账户ID（NPID）</translation>
+    </message>
+    <message>
+      <source>Password</source>
+      <translation>密码</translation>
+    </message>
+    <message>
+      <source>Show</source>
+      <translation>显示</translation>
+    </message>
+    <message>
+      <source>SysModules Folder</source>
+      <translation>系统模块文件夹</translation>
+    </message>
+    <message>
+      <source>User Folder Location</source>
+      <translation>用户文件夹位置</translation>
+    </message>
+    <message>
+      <source>Move Portable User folder</source>
+      <translation>移动便携用户文件夹</translation>
+    </message>
+    <message>
+      <source>Enables PS/Home/Guide button: Hardcoded Hotkeys</source>
+      <translation>启用PS/Home/Guide按钮：硬编码快捷键</translation>
+    </message>
+    <message>
+      <source>Disable Keyboard Bindings</source>
+      <translation>禁用键盘绑定</translation>
+    </message>
+    <message>
+      <source>Swap X/Circle Buttons (Xbox Layout)</source>
+      <translation>交换X/圆圈按钮（Xbox布局）</translation>
+    </message>
+    <message>
+      <source>Select memory compression level for better memory usage</source>
+      <translation>选择内存压缩级别以优化内存使用</translation>
+    </message>
+    <message>
+      <source>Disable Hardcoded Hotkeys</source>
+      <translation>禁用硬编码快捷键</translation>
+    </message>
+    <message>
+      <source>LinearImage Readbacks</source>
+      <translation>线性图像回读</translation>
+    </message>
+    <message>
+      <source>Readbacks Speed</source>
+      <translation>回读速度</translation>
+    </message>
+    <message>
+      <source>Select the readbacks speed mode</source>
+      <translation>选择回读速度模式</translation>
+    </message>
+    <message>
+      <source>Disable</source>
+      <translation>禁用</translation>
+    </message>
+    <message>
+      <source>Memory Allocation</source>
+      <translation>内存分配</translation>
     </message>
   </context>
   <context>
@@ -4078,6 +4398,46 @@ Please select a new location.</source>
       <source>Add Custom</source>
       <translation>添加自定义</translation>
     </message>
+    <message>
+      <source>Clear</source>
+      <translation>清空</translation>
+    </message>
+    <message>
+      <source>Installed</source>
+      <translation>已安装</translation>
+    </message>
+    <message>
+      <source>Date</source>
+      <translation>日期</translation>
+    </message>
+    <message>
+      <source>Repo</source>
+      <translation>仓库</translation>
+    </message>
+    <message>
+      <source>Full Path</source>
+      <translation>完整路径</translation>
+    </message>
+    <message>
+      <source>Check Changes (Refresh)</source>
+      <translation>检查更新（刷新）</translation>
+    </message>
+    <message>
+      <source>Delete</source>
+      <translation>删除</translation>
+    </message>
+    <message>
+      <source>Install Selected</source>
+      <translation>安装所选</translation>
+    </message>
+    <message>
+      <source>Uninstall Selected</source>
+      <translation>卸载所选</translation>
+    </message>
+    <message>
+      <source>Fetch SDL builds instead of Qt builds</source>
+      <translation>获取SDL构建版本（非Qt版本）</translation>
+    </message>
   </context>
   <context>
     <name>KBMDialog</name>
@@ -4205,6 +4565,10 @@ Please select a new location.</source>
     <message>
       <source>Play Game</source>
       <translation>运行游戏</translation>
+    </message>
+    <message>
+      <source>Select a Game</source>
+      <translation>选择游戏</translation>
     </message>
   </context>
   <context>
@@ -5169,6 +5533,18 @@ Please select a new location.</source>
     <message>
       <source>Use Per-Game configs</source>
       <translation>使用游戏独立配置</translation>
+    </message>
+    <message>
+      <source>Save</source>
+      <translation>保存</translation>
+    </message>
+    <message>
+      <source>Cancel</source>
+      <translation>取消</translation>
+    </message>
+    <message>
+      <source>Default</source>
+      <translation>默认</translation>
     </message>
   </context>
   <context>
