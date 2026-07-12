@@ -5150,7 +5150,7 @@ Please select a new location.</source>
     </message>
   </context>
   <context>
-    <name>HubMenuWidget</name>
+    <name>VerticalGameActionsMenu</name>
     <message>
       <source>Cheats / Patches</source>
       <translation>作弊码/补丁</translation>
@@ -5195,6 +5195,9 @@ Please select a new location.</source>
       <source>Tools &amp; Config</source>
       <translation>工具与配置</translation>
     </message>
+  </context>
+  <context>
+    <name>HubMenuWidget</name>
     <message>
       <source>Hotkeys &amp; Navigation Keys</source>
       <translation>快捷键与导航键</translation>
